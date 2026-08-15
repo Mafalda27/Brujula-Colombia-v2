@@ -1,0 +1,10 @@
+{
+  "description": "Facilitates real-time community aid in Colombia by connecting those in need with volunteers via a live map, verified directories, and emergency updates.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
